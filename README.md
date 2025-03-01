@@ -1,5 +1,7 @@
 # Amazon GPU Data ETL Pipeline
 
+Blog post: https://adamhoportfolio.github.io/blog-posts/amazon-gpu-price-tracker-etl-pipeline-with-airflow-docker-and-postgresql-oitaz
+
 A data pipeline that automatically fetches GPU product data from Amazon, processes it, and stores it in a PostgreSQL database using Apache Airflow for orchestration and Docker for containerization.
 
 ## 📋 Overview
